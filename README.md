@@ -41,7 +41,7 @@ pip install numpy pandas matplotlib scikit-learn imbalanced-learn tensorflow
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/fcc-magic-example.git
+   git clone https://github.com/Jagtap-Atharva/fcc-magic-example.git
    cd fcc-magic-example
    ```
 
